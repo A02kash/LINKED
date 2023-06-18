@@ -1,2 +1,2 @@
-# LINKED
-AWS Diagram for LINKED
+# AWS DIAGRAM OF LINKED
+As the developer of LINKED, a toll road operator company, I have undertaken the task of migrating our existing on-premise toll management application to Amazon Web Services (AWS). In my role as a Cloud Solution Architect/Consultant, I have designed a comprehensive cloud-based solution that incorporates AWS services to effectively capture vehicle plate images and automatically charge driver accounts based on various factors such as vehicle type and distance traveled. This solution enables LINKED to efficiently collect fees from drivers using our toll system.
